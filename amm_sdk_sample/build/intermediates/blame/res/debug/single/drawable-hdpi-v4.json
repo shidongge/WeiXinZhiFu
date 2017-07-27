@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "F:\\WeiXinZhiFu\\amm_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_dialog_long_click.png",
+        "source": "F:\\WeiXinZhiFu\\amm_sdk_sample\\src\\main\\res\\drawable-hdpi\\ic_dialog_long_click.png"
+    },
+    {
+        "merged": "F:\\WeiXinZhiFu\\amm_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_normal.png",
+        "source": "F:\\WeiXinZhiFu\\amm_sdk_sample\\src\\main\\res\\drawable-hdpi\\btn_check_on_normal.png"
+    },
+    {
+        "merged": "F:\\WeiXinZhiFu\\amm_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_dialog_alert.png",
+        "source": "F:\\WeiXinZhiFu\\amm_sdk_sample\\src\\main\\res\\drawable-hdpi\\ic_dialog_alert.png"
+    },
+    {
+        "merged": "F:\\WeiXinZhiFu\\amm_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\send_img.png",
+        "source": "F:\\WeiXinZhiFu\\amm_sdk_sample\\src\\main\\res\\drawable-hdpi\\send_img.png"
+    },
+    {
+        "merged": "F:\\WeiXinZhiFu\\amm_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_submenu_pressed.png",
+        "source": "F:\\WeiXinZhiFu\\amm_sdk_sample\\src\\main\\res\\drawable-hdpi\\mm_submenu_pressed.png"
+    },
+    {
+        "merged": "F:\\WeiXinZhiFu\\amm_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_disable.png",
+        "source": "F:\\WeiXinZhiFu\\amm_sdk_sample\\src\\main\\res\\drawable-hdpi\\btn_check_on_disable.png"
+    },
+    {
+        "merged": "F:\\WeiXinZhiFu\\amm_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_disable.png",
+        "source": "F:\\WeiXinZhiFu\\amm_sdk_sample\\src\\main\\res\\drawable-hdpi\\btn_check_off_disable.png"
+    },
+    {
+        "merged": "F:\\WeiXinZhiFu\\amm_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_normal.png",
+        "source": "F:\\WeiXinZhiFu\\amm_sdk_sample\\src\\main\\res\\drawable-hdpi\\btn_check_off_normal.png"
+    },
+    {
+        "merged": "F:\\WeiXinZhiFu\\amm_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_trans.png",
+        "source": "F:\\WeiXinZhiFu\\amm_sdk_sample\\src\\main\\res\\drawable-hdpi\\mm_trans.png"
+    },
+    {
+        "merged": "F:\\WeiXinZhiFu\\amm_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\send_music_thumb_backup.png",
+        "source": "F:\\WeiXinZhiFu\\amm_sdk_sample\\src\\main\\res\\drawable-hdpi\\send_music_thumb_backup.png"
+    },
+    {
+        "merged": "F:\\WeiXinZhiFu\\amm_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\send_music_thumb.png",
+        "source": "F:\\WeiXinZhiFu\\amm_sdk_sample\\src\\main\\res\\drawable-hdpi\\send_music_thumb.png"
+    },
+    {
+        "merged": "F:\\WeiXinZhiFu\\amm_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_submenu_normal.png",
+        "source": "F:\\WeiXinZhiFu\\amm_sdk_sample\\src\\main\\res\\drawable-hdpi\\mm_submenu_normal.png"
+    }
+]
